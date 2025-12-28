@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Crafting+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <h3>Ready to bring production-level code to a professional team as a Junior Software Engineer.</h3>
@@ -19,26 +19,16 @@
 
 ---
 
+### 🛠️ Tech Stack
+
 <div align="center">
-
-### 🟩 Contribution Focus: WEB 🟩
-
-<pre>
-🟩⬛⬛⬛🟩  🟩🟩🟩🟩🟩  🟩🟩🟩🟩⬛
-🟩⬛⬛⬛🟩  🟩⬛⬛⬛⬛  🟩⬛⬛⬛🟩
-🟩⬛🟩⬛🟩  🟩🟩🟩🟩⬛  🟩🟩🟩🟩⬛
-🟩🟩⬛🟩🟩  🟩⬛⬛⬛⬛  🟩⬛⬛⬛🟩
-🟩⬛⬛⬛🟩  🟩🟩🟩🟩🟩  🟩🟩🟩🟩⬛
-</pre>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,figma" height="50" alt="frontend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,graphql,mongodb,postgres" height="50" alt="backend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" height="50" alt="tools" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,figma" height="50" alt="frontend" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,graphql,mongodb,postgres,mysql" height="50" alt="backend" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux,md" height="50" alt="tools" />
 </div>
 
 ---
@@ -51,7 +41,7 @@
   <br/><br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
