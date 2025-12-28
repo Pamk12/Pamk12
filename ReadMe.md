@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Crafting+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <h3>Ready to bring production-level code to a professional team as a Junior Software Engineer.</h3>
+  <h3>Building the future of the web, one clean line of code at a time.</h3>
 </div>
 
 ---
@@ -19,53 +19,47 @@
 
 ---
 
-### 🛠️ Tech Stack
+### <h1 align="center">WEB</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux,figma" height="45" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="55" alt="frontend-core" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,rust,c,python,django,graphql" height="45" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" height="55" alt="frameworks-styling" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,aws,gcp" height="45" alt="database-cloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,graphql" height="55" alt="backend-api" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,md" height="45" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker" height="55" alt="database-infra" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md" height="55" alt="tools" />
 </div>
 
 ---
 
-### 🚀 Contribution & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pamk12&bg_color=1a1b27&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
+### 📊 Live Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamk12&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamk12&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamk12&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Vibe Check
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pritamkarmakar12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:pritam1234official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
 </div>
