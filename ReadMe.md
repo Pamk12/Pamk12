@@ -1,4 +1,4 @@
-<h2 align="center">Full-Stack Developer who loves debugging as much as building.  Specializing in Next.js, React, and clean architecture. Ready to bring production-level code to a professional team as a Junior Software Engineer.</h2>
+<h1 align="center">Full-Stack Developer who loves debugging as much as building.  Specializing in Next.js, React, and clean architecture. Ready to bring production-level code to a professional team as a Junior Software Engineer.</h1>
 
 ###
 
@@ -73,6 +73,12 @@
   <a href="pritam1234official@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
