@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Clean+Architecture;Loves+Debugging+as+much+as+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />
   </a>
 
   <h3>Ready to bring production-level code to a professional team as a Junior Software Engineer.</h3>
@@ -22,42 +22,44 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux,figma" height="50" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux,figma" height="45" alt="frontend" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,rust,c,python,django,graphql" height="50" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,rust,c,python,django,graphql" height="45" alt="backend" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,aws,gcp" height="50" alt="database-cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,aws,gcp" height="45" alt="database-cloud" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,md" height="50" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,md" height="45" alt="tools" />
 </div>
 
 ---
 
-### 📊 Live Stats
+### 🚀 Contribution & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pamk12&bg_color=1a1b27&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamk12&layout=compact&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamk12&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamk12&theme=tokyonight" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Pamk12/Pamk12/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamk12&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
 
-### 🎧 Vibe Check
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pritamkarmakar12" target="_blank">
@@ -66,6 +68,4 @@
   <a href="mailto:pritam1234official@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <br/><br/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&user=YOUR_SPOTIFY_USER_ID&background_color=1a1b27&bar_color=53b14f&bar_color_cover=false" alt="Spotify recently played" />
 </div>
