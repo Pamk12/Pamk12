@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Crafting+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=5bcdec&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;Crafting+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <h3>Building the future of the web, one clean line of code at a time.</h3>
+  <h3>Ready to bring production-level code to a professional team as a Junior Software Engineer.</h3>
 </div>
 
 ---
@@ -19,22 +19,26 @@
 
 ---
 
-### <h1 align="center">WEB</h1>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="55" alt="frontend-core" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" height="55" alt="frameworks-styling" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,graphql" height="55" alt="backend-api" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker" height="55" alt="database-infra" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md" height="55" alt="tools" />
+
+### 🟩 Contribution Focus: WEB 🟩
+
+<pre>
+🟩⬛⬛⬛🟩  🟩🟩🟩🟩🟩  🟩🟩🟩🟩⬛
+🟩⬛⬛⬛🟩  🟩⬛⬛⬛⬛  🟩⬛⬛⬛🟩
+🟩⬛🟩⬛🟩  🟩🟩🟩🟩⬛  🟩🟩🟩🟩⬛
+🟩🟩⬛🟩🟩  🟩⬛⬛⬛⬛  🟩⬛⬛⬛🟩
+🟩⬛⬛⬛🟩  🟩🟩🟩🟩🟩  🟩🟩🟩🟩⬛
+</pre>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,figma" height="50" alt="frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,graphql,mongodb,postgres" height="50" alt="backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" height="50" alt="tools" />
+
 </div>
 
 ---
@@ -42,24 +46,28 @@
 ### 📊 Live Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamk12&theme=tokyonight&hide_border=true" alt="streak stats" />
+  
+  <br/><br/>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamk12&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamk12&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
   </a>
 </div>
 
 ---
 
-### 🤝 Vibe Check
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pritamkarmakar12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:pritam1234official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
