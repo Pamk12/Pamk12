@@ -15,7 +15,7 @@
 > **`❯ Hello!`** &nbsp;&nbsp; I'm a passionate final-year student building responsive web apps with **React** and **Next.js**. I love turning complex logic into clean, user-friendly interfaces. Currently seeking an entry-level role where I can learn from a team, contribute code, and solve real-world problems.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" alt="coding animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="coding animation" />
 </div>
 
 <br />
