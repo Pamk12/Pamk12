@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px" alt="header animation" />
-
-  <br/>
-  <br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=5FB8FF&center=true&vCenter=true&width=600&lines=PRITAM+KARMAKAR;Frontend+Architect;Solution+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=5FB8FF&center=true&vCenter=true&width=600&lines=PRITAM+KARMAKAR;Frontend+Developer;Full+Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/pritamkarmakar12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -15,9 +10,13 @@
 
 <br />
 
-### ⚡ **Core Profile**
+### ⚡ **About Me**
 
-> **`❯ Mission`** &nbsp;&nbsp; Engineering high-performance frontend solutions and automating complex workflows with a focus on clean UI and low-code logic; ready to deploy.
+> **`❯ Hello!`** &nbsp;&nbsp; I'm a passionate final-year student building responsive web apps with **React** and **Next.js**. I love turning complex logic into clean, user-friendly interfaces. Currently seeking an entry-level role where I can learn from a team, contribute code, and solve real-world problems.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" alt="coding animation" />
+</div>
 
 <br />
 
@@ -26,26 +25,20 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120"><b>Frontend Focus</b></td>
-      <td align="center" width="120"><b>Backend & DB</b></td>
-      <td align="center" width="120"><b>Toolkit</b></td>
+      <td align="center" width="180"><b>Frontend</b></td>
+      <td align="center" width="180"><b>Backend</b></td>
+      <td align="center" width="180"><b>Toolkit</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,html,css" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,html,css&perline=3" height="65" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongo,postgres" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongo,postgres&perline=3" height="65" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase&perline=3" height="65" />
       </td>
     </tr>
   </table>
-</div>
-
-<br />
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="border-radius: 10px" alt="footer animation" />
 </div>
