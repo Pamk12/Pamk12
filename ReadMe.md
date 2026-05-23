@@ -1,4 +1,3 @@
-````
 # 🚀 PRITAM KARMAKAR
 
 <div align="center">
@@ -21,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=pritamkarmakar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Pamk12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
@@ -35,7 +34,7 @@
 
 ```bash
 > Hello World!
-````
+```
 
 I'm **Pritam Karmakar**, a passionate developer who loves building scalable web applications, AI-powered systems, and modern user experiences.
 
@@ -51,6 +50,8 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 * Real-time Applications
 * Creative Frontend UI/UX
 
+<br clear="right"/>
+
 ---
 
 # 🛠 Tech Stack
@@ -58,7 +59,6 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 <div align="center">
 
 <table>
-
 <tr>
 <td valign="top" width="25%">
 
@@ -108,7 +108,6 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 
 </td>
 </tr>
-
 </table>
 
 </div>
@@ -119,9 +118,9 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pritamkarmakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamk12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamkarmakar&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pamk12&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -129,7 +128,7 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pritamkarmakar&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pamk12&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -139,7 +138,7 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pritamkarmakar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pamk12&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -184,16 +183,6 @@ Goal:
 
 ---
 
-# 🎵 Coding Vibes
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31u5f6m2l6x7example&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
@@ -218,7 +207,6 @@ Goal:
 
 ## ✨ "Code. Create. Innovate. Repeat." ✨
 
-⭐ From [Pritam Karmakar](https://github.com/pritamkarmakar)
+⭐ From [Pritam Karmakar](https://github.com/Pamk12)
 
 </div>
-```
