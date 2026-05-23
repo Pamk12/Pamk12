@@ -1,5 +1,3 @@
-# 🚀 PRITAM KARMAKAR
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=PRITAM+KARMAKAR;AI%2FML+Developer;Full+Stack+Vibe+Coder;Building+Ideas+Into+Reality" alt="Typing SVG" />
@@ -85,13 +83,12 @@ I'm **Pritam Karmakar**, a passionate developer who loves building scalable web 
 ### 🧠 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
+<img src="https://skillicons.dev/icons?i=tensorflow&perline=3" />
 </p>
 
 <div align="center">
 
 `Machine Learning`
-`Deep Learning`
 `Data Analysis`
 
 </div>
